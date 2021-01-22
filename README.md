@@ -1,2 +1,1 @@
-# Discovery-Rocketseat
-Rocketseat-HTML-CSS
+  <h1 align="center">DISCOVERY ROCKETSEAT</h1>
